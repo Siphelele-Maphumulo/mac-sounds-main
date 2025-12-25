@@ -1,4 +1,4 @@
-# mac-sounds
+# mac-sounds m
 
 mac-sounds is a library for playing the default Mac OS X sounds from node:
 
