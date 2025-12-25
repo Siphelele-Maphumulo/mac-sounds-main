@@ -1,4 +1,4 @@
-# mac-sounds
+# mac-sounds masters
 
 mac-sounds is a library for playing the default Mac OS X sounds from node:
 
@@ -16,7 +16,7 @@ sound('pop', function(err) {
 })
 ```
 
-## install
+## installation
 
 ```
 npm install mac-sounds
